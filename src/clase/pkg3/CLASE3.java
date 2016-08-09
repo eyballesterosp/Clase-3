@@ -8,6 +8,8 @@ package clase.pkg3;
 public class CLASE3 {
 
     public static void main(String[] args) {
+       
+        /*
         int x = 3;
         while (x > 0) {
             if (x > 2) {
@@ -22,12 +24,15 @@ public class CLASE3 {
             }
             x = x - 1;
             System.out.print("-");
-        }
+        }*/
         
         int a = 0;
-        int y = 0;
-        while (x<5){
-            System.out.println(x 
+        int b = 0;
+        while (a < 5){
+            b = b - a;
+            
+            System.out.print(a + "" + b + " ");
+            a = a + 1;
         }
     }
     
