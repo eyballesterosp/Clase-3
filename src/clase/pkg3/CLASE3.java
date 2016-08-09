@@ -31,9 +31,11 @@ public class CLASE3 {
                     x = x - 1;
                 }
             }
+            /*
             y = y + 2;
             System.out.print(x + "" + y + " ");
             x = x + 1;
+                    */
         }
     }
 }
